@@ -1,0 +1,3 @@
+Note : 👍
+
+Jusqu'à aujourd'hui, un crash au démarrage m"empêchait d'y jouer.. Reinstallation, paramètrtes admin, compatibilté, etc... rien ne solutionne mon, problème. Fianalement j'ai contacté le support qui m'a fait activer "la planification GPU accélérée par le matériel" dans les paramètres Windows. Ceci m'a permis de progresser dans ce jeu qui s'avère attachant et qui ne démérite pas faca au Forzas horizon.

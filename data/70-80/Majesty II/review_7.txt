@@ -1,0 +1,18 @@
+Note : 👍
+
+Comme majesty 1 c'est un jeu basé sur l'indirect control, vous construisez une base, recrutez des héros, et fixez des missions dont ils se chargent s'ils trouvent la récompense assez intéressante.
+Système économique très simple avec une seule ressource l'or.
+
+Les bons points :
+ - quelques très bonnes innovations par rapport à majesty 1 comme la possibilité de former des groupes d'aventuriers
+ - graphismes simples et décents, musique adaptée, bonne ambiance globale
+ - plus de challenge globalement que dans le 1, et plus de nécessité d'intervention du joueur, là où dans le 1er opus les héros faisaient limite tout tout seuls
+ - un éditeur de cartes
+
+Les mauvais :
+ - la difficulté du début de partie pour certaines missions (même pas loin dans le jeu, dès la 5ème ou 6ème) est extrème, et vous avez à relancer la partie jusqu'à trouver le bon build order pour ne serait ce que survivre
+ - une fois cette difficulté initiale surmontée sur certaines cartes, la partie peut être longue à finir bien que la victoire soit assurée (j'en suis au 3/4 du jeu et pas trouvé de carte où il y ait un late game difficile)
+ - la grande stupidité des héros, qui attendent d'être presque morts pour réaliser qu'ils n'ont plus de potions de soins et commencer à fuir, et qui retournent au combat si on les soigne à ce moment
+ - pas de cartes aléatoires contrairement au 1 (un système pour placer aléatoirement les antres de monstres c'est tout, et parfois elles se retrouvent si proche du chateau que c'est injouable)
+
+Je dirais recommandation mitigée, une séquelle décente à majesty 1 sans plus, qui souffre d'une moins bonne ia mais offre de réels challenges et est nettement plus jolie (pas dur le 1er opus datant de 2000). Vaut le coup avec une offre au moins 50% en gros.

@@ -1,0 +1,46 @@
+Note : 👎
+
+[h1] [b] [i] Forgotten Resident Evil multiplayer TPS [/i] [/b] [/h1]
+
+[h1] [b] [i] ★★★★☆☆☆☆☆☆ [/i] [/b] [/h1]
+
+Umbrella Corps is a lesser-known multiplayer-focused addition to the Resident Evil family, owing part of its obscurity to the fact that it is the only title in the gargantuan franchise whose title does not include the name of the actual series it is part of. It is almost as if someone didn't actually wanted it to be associated with other Resident Evil games, for one reason or another. The result? An utterly forgettable but fairly decent and even somewhat innovative third-person shooter with nostalgic throwbacks to the most popular entries of the franchise.
+
+[h1] [i] “This advanced training shows us the subject's true potential. It also determines whether the lab rat lives or dies. 
+
+Life or death... in this arena, they're almost the same anyway.” [/i] [/h1]
+
+I've pretty much only heard bad things about Umbrella Corps before playing it - from very negative reviews from mainstream publications, to Mostly Negative rating on Steam - everyone seems to be advising that this should not be given a second look. While I am not planning to go against grain in this review, I have to admit that I did enjoy Umbrella Corps a lot more than I expected (certainly more than the more recent multiplayer-only titles). That came from two things - well-designed shooting model and the nostalgia-bait in the form of the most recognizable of maps from Resident Evil 4, 5, and even 3 and 1. Not going to lie - being able to re-visit these locations in a more modern engine was a nice blast from the past, even if it is ultimately pointless because in the grand scheme of Resident Evil things, what little happened in this game is completely irrelevant, despite it supposedly being canon. 
+
+The most relevant reason why you would want to avoid this game is the obvious - it's completely dead. It is a multiplayer-first game relying on an active player base which is all but gone. All of my hours in-game came from the supremely limited single-player content which sees you repeat the three quasi-multiplayer gamemodes solo through its all 5-6 maps. As I mentioned above, this IS enjoyable to the extent that you experiment with the gameplay and different weapons killing different enemies in different maps as quickly as you can. It is fairly challenging too as you can die from 2-hits and the enemies are fairly agile and aggressive. Apart from that though, this is something that was designed purely as a tutorial and a practice for the actual matches, which you can't get into nowadays. 
+
+Concluding this – save your money, time, and patience. Unless you are a completionist freak like me and absolutely want to at least experience every single Resident Evil game, don't bother. There is nothing here that you won't find better elsewhere, and if you crave the nostalgia trip, then just go back to those individual games and play them for the umpteenth time. You'll have better life.
+
+[h2] [b] [u] Positives & Negatives [/u] [/b] [/h2]
+
+[table]
+[tr]
+	[th][b] [i] Positives [/i] [/b][/th]
+	[th][b] [i] Negatives [/i] [/b][/th]
+[/tr]
+[tr]
+	[td]+ Engaging gunplay and movement system with its partial verticality[/td]
+	[td]- Poor technical state even after all of its updates - the performance stutters are frequent and the wiki even recommends using a controller as the mouse aiming is occasionally wonky[/td]
+[/tr]
+[tr]
+	[td]+ Decent graphics[/td]
+	[td]- Too few game modes[/td]
+[/tr]
+[tr]
+	[td]+ Lovely re-design and re-use of classical maps from past RE games[/td]
+	[td]- Dead playerbase[/td]
+[/tr]
+[tr]
+	[td][/td]
+	[td]- Abandoned and not supported anymore[/td]
+[/tr]
+[tr]
+	[td][/td]
+	[td]- The singplayer content is just an expanded tutorial - it's "story" (if you can even call it that) is a typical "corporation evil" plot that other gamees have done much better and the fact that you are just replying the same three game modes makes the whole thing feel like a slog[/td]
+[/tr]
+[/table]

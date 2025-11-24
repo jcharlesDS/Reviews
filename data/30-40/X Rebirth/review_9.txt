@@ -1,0 +1,61 @@
+Note : 👎
+
+Après un peu plus de 100h de jeu, je vais pouvoir donner mon avis.
+
+Etant fan de X3: terran conflict et X3 : albion prelude j'ai beaucoup hésité à me prendre Rebirth au vu des nombreuses critiques le concernant. Au final, je ne regrette pas mon achat, mais je suis tout de même déçu.
+
+Ce jeux n'est pas mauvais mais ça n'est pas une suite aux precedents X, c'est un tout nouveau gameplay.
+
+Les bons points :
+
+- Un changement d'échelle fait que le jeu ne se déroule que sur 5 ou 6 secteurs, mais reste finalement assez vaste. Les secteurs parraissent beaucoup plus grand, les stations sont énormes, les portails de saut râres. J'aime bien ce changement, l'univers des precedent X, bien qu'impressionant au depart finissait par parraitre plutot petit pour représenter l'extension galactiques de plusieurs civilisations. Ici tout est concentré sur albion / omnicron lyrae / home of light, un bon carrefour pour croiser argon, terrien, teladi, split et xénon.
+
+- Dégats ciblé sur les gros vaisseaux : Sur les vaisseaux de lignes sont visibles les moteurs, armes, bouclier, moteur de saut. Tout peut être ciblé est détruit indépendament, le petit jeu devient vite d'immobiliser un gros croiseurs avant de le désarmer puis de l'aborder. Les PNJ tentent aussi de viser les systèmes clés pendant leur combat.
+
+- Campagne plus fournie que dans les precedents, même si l'histoire reste en suspent, de ce point de vue ça reste un X, il n'y a pas de THE END une fois la campagne terminée : l'univers est toujours à peu pret comme vous l'avez trouvé, histoire de pouvoir continuer à jouer. Mais l'histoire est tout de même interessante, bien que votre presence pendant les gros combat soit tout à fait sans importance (je rappele que vous ne piloter que l'équivalent d'un chasseur lourd M3+, au milieu d'une bataille de croiseur M7, M1 et M2)
+
+- Gestion des stations un plus poussée que dans les précedents, toujours appreciable de gagner un peu de microgestion sur ces elements importants que sont nos stations.
+
+- Le jeu n'est plus truffé de bug comme à sa sortie. Je n'ai eu pratiquement aucun soucis, rien de grave en tout cas.
+
+
+
+Les moins bons points :
+
+- Un seul vaisseau pilotable, mais je pense que ça a été dit et redit, ça n'est même pas le plus gros point noir à mes yeux.
+
+- A moins de faire des missions, on s'ennui. Les allés retour des commerçants sont pourtant à gérer à la main, mais il faut compter 10 à 20min l'aller retour, le marché ne permet pas d'avoir plus de 4 ou 5 commerçants avant d'être saturé. (je ne compte pas l'ajout apporté par nos propres stations). Pour construire une station il faut compter 3 bonnes heures d'aller retour des vaisseaux pour acheminer le matériel. A part ça, il n'y a que deux choses à faire : mission et scan de station.
+J'ai toujours bien aimé justement ne pas avoir a faire de mission pour m'amuser dans les autres X, il avait de quoi s'occuper "naturellement". Le scan de station, j'y viens :
+
+- Le scan de station : afin d'obtenir les meilleures remise commerciale il faut scanner les stations, c'est à dire trouver le petit icone "i" sur chaque element constitutif de celle ci, s'en approcher assez (environ 50m) et passer au suivant.
+Comptez 10min par station, à une moyenne de 3 station par zone, 5 zone par sous secteur, 5 sous secteurs par secteurs, soit environ : 10x3x5x5 = 750min, environ 12h par secteur. Autant le dire, au bout d'1h à faire ça, vous aurez envie d'aller dormir, c'est tout à fait sans interet passé les 3 ou 4 premières stations. D'autant que pour continuer à voir les besoin d'achat/vente de la station une fois parti sur un autre secteur il vous faudra d'abord :
+
+- Parler à un PNJ. Pas mal de choses dans le jeu necessite de s'amarrer à une station pour y descendre à pied et parler à un PNJ. Cet ajout qui se veux d'abord être un point positif de ce nouvel opus est loin d'être bon. C'est pas specialement joli, c'est répétitif à souhait, il n'y a que quelques modèles de stations différents. Le pire, les dialogues, vous allez passer votre temps à répeter les mêmes choses à des PNJ qui vous feront presque toujours des réponses sans aucun sens. La encore c'est très vite pénible, on ne le fait que pour atteindre un but et pas par plaisir.
+PNJ : "ces danseuses holo sont vraiment..."
+VOUS "vous parlez des danseuses holo ?" 
+PNJ "pas forcement, je pense à la realité virtuelle en général"
+VOUS "plutot que des danseuses je préfererai parler de la realité virtuelle en général"
+PNJ "quel orateur, j'aimerai avoir votre talent"
+VOUS "on utilise mal la realité virtuelle depuis le debut, on gache beaucoup de notre temps dessus"
+PNJ "vous m'avez convaincu, j'aimerai beaucoup discuter avec vous"
+-fin de la discution-
+Et vous allez vous tapez ce truc là une bonne centaine de fois, au minimum...
+
+- Les armes sont moches, finit les belles rangées de tourelles d'arme à rayon ou autres, entièrement personnalisable.
+Maintenant c'est un vaisseau = 1 seule configuration d'arme imposée. Les armes c'est des petits carrés accroché à la coque avec en léger relief un machin rond qui tourne, genre un interrupteur pour varier la lumière du salon, bah c'est vos tourelles ça. Concernant votre propre vaisseau, vous n'avez qu'une arme d'installé à la fois au choix entre 4, elles sont un peu customisable ok, mais franchement ça fair léger. Pas de tourelle sur votre propre vaisseau bien sur...
+
+
+- Une grosse parti de l'univers est passé à la trappe. Vous ne croiserez que rarement un vaisseau dont le nom vous est familier et les anciennes armes ont été completement dégagée.
+Sous pretexte que 40ans ce sont écoulés depuis X3AP bah tout à changé on nous dit. On voit des raptors splits (mais sous un autre nom tant qu'a faire) l'encyclopédie nous dit que ce sont des antiquités. Le pretexte est valable ok, mais pouquoi ? Pourquoi dégagé l'univers connu des joueurs et qui a fait le succès des premiers ? Je ne comprend pas.
+
+- Les vaisseaux porteurs ne portent pas. Oui oui, il y a des vaisseaux classés porteur, avec des baies d'envol et d'ammarge tout ce qu'il faut sauf qu'il portent rien. Enfin si des drones, comme tout les vaisseaux, ils sertont un peu plus adapté en effet. Mais pas de chasseurs.
+Du coup vous ne jouerai pas de chasseurs, parceque dès que votre flotte va sauter dans le secteur demandé, les chasseurs vont traversé la galaxie pour les rejoindre. Autant vous le dire, ils n'arriveront pas à destination...
+Du coup les chasseur c'est pour l'IA, vous vous oubliez. A la place vous avez des drones, sans bouclier, c'est du jetable. Mouai mouai.
+
+RESUMÉ :
+
+Le jeu reste prenant mais ont ne retrouve ni le gameplay, ni les vaisseaux et armes des précédent X, les nouveaux n'ont pas leur charme (à mon avis).
+Il finit par être vraiment trop redondant à mon gout, le scan de station constituant l'activité principale du jeu avec les missions type à choper dans les secteurs. Les batailles difficilement ralisable à grosse échelle puisque vous etes cantoné à votre chasseur, votre flotte étant entièrement gérée par l'IA, il ne faut pas en attendre grand chose : Le seul ordre de combat à donner au seul groupe directement sous votre conrole : "attaquez"
+Ne cherchez pas les beaux combats stratégiques, juste un peu de dog fight avec votre chasseurs non customisable.
+
+Je me suis amusé le temps de la campagne, 100h c'est déjà honnorable. Mais c'est pas un X.

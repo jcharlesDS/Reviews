@@ -1,0 +1,5 @@
+Note : 👎
+
+Doesn't work on Win7.
+
+Edit: And not on Windows 10, either.

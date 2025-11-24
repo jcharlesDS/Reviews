@@ -1,0 +1,16 @@
+Note : 👎
+
+a technical mess with a lot of promise 
+would need a ton of work, but it doesn't seem like its getting that 
+
+21:9 support is missing, menus are all messed up when its not in 16:9 
+you constantly see through walls 
+and can often fall through them or get stuck inside them, 
+performance is also abysmal and appears to be capped at 60fps 
+regardless of vsync 
+
+I really like the art style, atmosphere, story and characters 
+the movement feels pretty good and stealth mechanics work well 
+
+would love to recommend this game, 
+but sadly cant.

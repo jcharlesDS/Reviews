@@ -1,0 +1,3 @@
+Note : 👎
+
+Not having an autorun key is enough to pmo lol. Tried to bind one with ahk and I couldn't autorun that way either. Please

@@ -1,0 +1,67 @@
+Note : 👍
+
+J'ai bien hésité avant de faire une éval sur ce jeu. Acheté en collector à sa sortie, et bien hypé durant toutes ces années (j'avais même été à la gamescom pour aller voir les demos), j'ai très vite déchanté une fois le précieux installé.
+
+[b]Mon but ici est d'être le plus neutre et précis possible pour un futur (ou pas ) achat. Je ratisse large pour ne pas surprendre l'acheteur potentiel et aussi pour court circuiter les tests haineux ou fanboy qui trainent un peu partout sur la toile.[/b]
+
+ Je ne m'étendrai pas sur tous les bugs qui ont fait de ce jeu un monument de la sortie ratée, mais concentrons-nous sur ce qu'il en est plus de 8 mois après:
+
+
+La version 2.0 est sans nul doute beaucoup plus finie et stable que le jeu de départ. La quasi totalité des bugs ont été corrigés, et, soucieux de bien faire (même un peu tard), on nous rajoute du contenu et de l'équilibrage.
+
+[b] Le bon [/b]
+
+Alors non ce n'est toujours pas aussi fourni qu'un hypothétique X4. Mais il reste néanmoins un bon jeu de simulation spatiale. 
+Pas le meilleur, certes, mais il pourrait se bonifier avec le temps, comme ses prédecesseurs.
+
+Ayant une configuration relativement confortable je n'ai jamais eu de soucis de performances, le jeu tournant assez bien dans toutes les zones.
+
+L'ajout de missions, et de contenu en général est une chose louable de la part des développeurs, qui ne veulent pas lacher leur bébé. 
+
+La configuration des zones est plus réfléchie que dans les autres jeux de la série où on se retrouvait dans des cubes de plusieurs dizaines de km de coté aux bords desquels on y mettait une porte pour aller dans un autre cube.
+
+Ici un système est modélisé entièrement, et les zones sont reliées entre elles par des autoroutes spatiales sans aucun chargement. On constatera assez vite que chaque système est assez énorme finalement et que ces autoroutes sont très pratique pour notre petit vaisseau qui n'a pas de jumpdrive. La contrepartie de cela est qu'en dehors des zones peuplées, il n'y a rien dans l'espace. 
+On peut piloter son vaisseau jusqu'à la planète la plus proche sans pour autant trouver un truc interessant sur notre radar, dommage, mais pas irréparable.
+
+L'ajouts de cockpit est une idée louable, cela casse la monotonie d'avoir les même écrans devant nous, mais on aurait aimé avoir la possibilité d'avoir des upgrades du vaisseau associées à ces cockpit, pour qu'ils aient tous un rôle particulier.
+
+
+[b] Le très bon [/b]
+
+Le charme de cet épisode se situe au niveau de l'ambiance générale, de ce sentiment de faire partie d'un univers énorme et touffu. Il y des centaines (voire des milliers) de vaisseaux par zone, volant d'une station à une autre, se garant, rentrant dans les hangars ou se faisant poursuivre par la police. C'est un des points les plus réussis de ce titre et vous vous surprendrez à rester immobile, regardant le paysage pendant de longues minutes, en oubliant votre mission en cours.
+
+Même si gagner de l'argent n'est pas un soucis dans X, les anciennes mécaniques de la série fonctionnent toujours bien pour devenir riche: capturer des vaisseaux pour les revendre, devenir shériff de l'espace, faire du commerce intersystèmes, vous pourrez arriver à vos fin de bien des manières. Mais il vous faudra réfléchir afin de trouver la manière optimale pour étendre vos usines et créer du bénéfice. 
+Les dépensiers ne seront pas bloqués comme avant car il est possible de trouver des containers remplis de divers matériaux à revendre pour vous remettre en course.
+
+Les batiments sont équipés de beaucoup de sous systèmes qu'il faudra détruire ou hacker en surface, ce qui ajoute une composante interessante au gameplay. 
+
+Les campagnes ajoutées: Il n'y avait avant que la possibilité de faire la campagne principale (un brin ennuyante) et le gameplay libre. Maintenant nous avons la possibilité de choisir sa carrière dés le début du jeu avec un début de partie radicalement différent d'une campagne à l'autre.
+
+La communauté du jeu: Cette licence a pour elle une communauté assez conséquente de moddeurs talentueux et rapides, qui engendre du contenu corrigé ou amélioré chaque semaine, ce qui permet une rejouabilité étendue pour les années à venir. Les développeurs étant au courant de cela, ils sortent des outils de modding adéquats qui faciliteront encore plus la création de mod.
+
+[b]Le moins bon[/b]
+
+
+Au niveau des missions secondaires, aucune originalité: on nous ressert les missions d'attaque, de protection de convois, et de transport en temps limité. Même si le hack et le sabotage est une composante du jeu, il n'y a aucune mission qui en tire vraiment parti. 
+
+On aurait aimé une plus grande diversité à ce niveau, tant l'univers vaste se prète à l'exploration.
+
+Mauvais point aussi pour les stations: Pendant une grosse partie du jeu, les stations ne seront que des couloirs copié/collé qui vous lasseront plus qu'autre chose. Une bonne idée sous exploitée au final, puisqu'aucune mission ne se déroule la dedans. La version 2.0 nous permet néanmoins de dialoguer avec tous les habitants de la station et de commercer avec eux depuis le vaisseau. Tant mieux.
+
+
+[b]Le pas bon [/b]
+
+Le soucis provient encore une fois de l'ergonomie générale du jeu. La série des X est réputée pour être difficile d'approche mais celui-ci l'est d'autant plus à cause de problèmes d'ergonomie et de non sens au niveau de l'interface:
+
+- Le menu circulaire est créé pour être naviguable à la manette mais le nombre d'options disponibles donne lieu à de grosses erreurs de placements dans la hiérarchie des menus. Attendez-vous à naviguer sur 3-4 menus pour demander à un vaisseau de vous suivre ou de patrouiller dans la zone par exemple.
+
+- Certaines actions obligatoires sont à l'opposé du bon sens (un vaisseau de commerce doit vous suivre tout le temps pour qu'il puisse recevoir des ordres, jumpant sur vous dès que son ordre de commerce est terminé, même en territoire ennemi).
+Bien que les développeurs nous ont gratifié d'un univers où nous ne somme pas qu'un vaisseau (on peut marcher dans les stations, dialoguer avec des gens, on a un copilote), nos employés n'ont aucune indépendance et le micromanagement sur plusieurs vaisseaux devient vite un réel soucis.
+
+- Le vaisseau unique: Alors ce qui aurait pu être une idée originale pouvant être utilisée intelligement (le command pod de I-war pouvant s'intégrer à plusieurs composants de vaisseaux). Nous avons droit à un vaisseau qui est très peu upgradable. Les célèbres composants armes/boucliers/moteurs seront les seules choses que l'on pourra changer dans le vaisseau.
+
+- Le plan de navigation en 2D: Malgré que le jeu soit navigable sur les 3 axes (x/y/z), la disposition des zones dans l'espace se fait sur un plan unique. Les autoroutes et les stations sont alignées sur le même plan dans un système, parfois avec un léger dénivelé. En aucun cas une station sera positionnée sur un autre plan que x/y. 
+
+[b]Mais c'est kloug ou pas kloug?[/b]
+
+Pour l'instant c'est tout sauf kloug. Le jeu est parfaitement jouable et appréciable pour les férus de simulation spatiale. Les developpeurs étant à l'écoute, ajoute du contenu à chaque mise à jour, gratuitement. Il se pourrait même qu'il devienne aussi mythique que ses prédécesseurs, sous réserve d'un changement d'interface.

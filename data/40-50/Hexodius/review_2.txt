@@ -1,0 +1,18 @@
+Note : 👎
+
+I am now updating my review.  Hurray! 
+
+Hexodius is an arena twin stick shooter.  This means you have a character /ship/geometric shape/whatever, in a square area where there are enemies.  You shoot in any direction to deal with them and they shoot back.  Rarely is there any variation in terrain in these types of games.  Hexodius is no exception.  A few levels are longer than the screen and some have some indestructible boxes.  But, thus far I have seen nothing majorly abnormal for a TSS.  It is definitely best to have a twin stick controller for this particular game.  
+
+There is a sort of overworld area sort of like the overworld map in Super Mario World.  But it's not a huge difference.  You can only visit levels once and there’s no real choices to make.  So, it doesn’t affect the game play much.  Don't get me wrong, I really like it when games have this.  It gives the feeling that there is a reason for the battling.  But it doesn’t really affect how this particular game flows.  
+
+And that is the crux of why I'm not recommending this, even after updating the review.  It's prettier.  And it has some bells and a few whistles.  But, overall, you can find as good as or better for free on Kongregate.  The only place Hexodius shines over a free Unity or Flash equivalent is the artwork, which is very nice for a game of this genre.  So, final word, so to speak, this isn't horrible, or even particularly bad, but you can get better cheaper or free.  Wait for a sale if you must have this.
+
+Note:  cdbpee pointed out my failure to update this review.  Thank you for the reminder.  I was remiss.  
+
+Also Note:  The following continues to be true.
+"Under system requirements it says "Microsoft Xbox 360® Controller for Windows® strongly recommended."  This is now technically correct.  There are KB & mouse controls.  They just (smurf)*.
+
+While KB & Mouse controllers are now an option there are some with them.  Specifically, if other devices that windows labels "controller" are attached.  The game seems to auto detect and put you into controller mode without question if these are present.   So, if you want KB/Mouse you will need to unplug before booting the game.
+
+*(smurf) negative expletive.  A word normally hearted out by Steam.

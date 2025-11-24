@@ -1,0 +1,11 @@
+Note : 👍
+
+Ce jeu fait penser à Megaman Battle Network (Rockman.exe), en quelque sorte, avec son terrain de bataille quadrillé et son activation d'unités via des cartes. C'est beaucoup moins rapide que Megaman Battle Network, beaucoup moins orienté action, mais c'est pas mal, un temps.
+
+L'intelligence artificielle triche salement (plus de points d'action que le joueur) car elle n'est pas très intelligente, et les affrontements deviennent un peu laborieux de par leur difficultée un peu forcées.
+
+L'histoire, contée par une bande dessinée, est médiocre, mais l'ambiance et les graphismes sont plaisants.
+
+Pas testé le multijoueur.
+
+Au final, et malgré ses défauts, c'est un bon petit jeu tactique, à essayer pour se faire un avis.

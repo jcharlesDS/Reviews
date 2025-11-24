@@ -1,0 +1,34 @@
+Note : 👎
+
+mise à jour avec la version 1.31 et quelques heures de jeux sur cette MàJ :
+
+Dans l'état actuel des choses, et aimant particulièrement la série des X universe, je ne peux recommander ce jeu. Mais si EGOSOFT venait à corriger le titre, je corrigerai de même ma critique.
+
+si on le note sans connaissance a priori de la série X, le jeu est pas mal. les éditeurs sortent des patchs correctifs lentement, mais surement. comme avant, le jeu sera critiqué à fond au début (y compris par moi) puis sera lentement mais surement correctement améliorer, ce qui est un fait rare.
+Le patch 1.30 a fait faire des progrés au jeu qui le rendent plus agréable à joué, disons le honnêtement. les PNJ sont plus aisément identifiable via des icônes différentes aux dessus de leur tête.
+Hélas, le patch 1.31 censé donner plus de stabilité a des tendances à faire "disparaitre" des vaisseaux, et à planter durant la sauvegarde rapide, ce qui oblige à se méfier encore plus et à gérer les 10 places de sauvegarde au mieux et par deux (au cas où).
+
+le mode histoire est nettement mieux foutu que dans les autresX, et fait interressant, permet réellement d'apprendre les bases du jeu. ils restent encore des zones d'ombre, mais un peu d'exploration dans des menus relativement simple d'accès donne vite satisfaction (autant dire que dans les autres X, il fallait quelques dizaines d'heure avant d'avoir une complète maitrise de tout ça ^^)
+les interractions entre stations et le commerce est dynamique, petit exemple dans le mode histoire, si vous ne prenez pas le temps de relancer l'économie de DeVries en construisant des stations à forte valeur ajouté, il sera très dur de rendre rentable ce secteur, et même pire, il peut devenir un gouffre financier. ^^
+plus une ressource est disponible, moins elle est chère, et l'inverse est vraie. C'est donc une économie de marché avec près d'une centaine de ressources (allant du minerai de base aux objets high tech) échangeable. pour ceux qui veulent un jeu où l'on gère une lourde économie en macro, c'est vraiment bon.
+Pour la gestion micro, et bien ça pèche énormément, les ordres des vaisseaux sont très frustres, les capitaines peuvent même n'en faire qu'à leur tête, et certains devraient clairement reprendre les leçons de pilotage ! l'interface d'interraction avec nos autres vaisseaux fait qu'on les donnent vite aux stations ou qu'on les laisse dans un secteur garage...simple exemple de comparaison avec un autre très vieux jeu spatial (Conflit Freespace), les commandes de groupes sont plus riche sur ce jeu vieux de 15 ans que sur ce X (et certains détail comme des flammes et des éclaires apparaissent sur des chasseurs endommager et des vaisseaux de ligne en mauvais état de santé, ce qui fait aussi défaut à X pour le côté immersif)
+encore de nombreux bug existant (surtout des collisions) et des plantages assez ennuyeux qui apprennent à sauver régulièrement (F5, la sauvegarde rapide, est votre ami)
+les stations ont un design exterieur très agréable, et très lié à leurs fonctions, ce qui permet d'identifier assez vite leur rôle. le design des vaisseaux est tout autant agréable, et en un coup d'oeil après quelques heures on sait à quoi on a faire :)
+mais l'intérieur casse l'enchantement... les persos sont aussi bien modélisé que dans Arx Fatalis(qui a 13 ans^^), et le système de dialogue est, nan, ne fait clairement pas rêver.  Il faut faire du clic réflexe...dommage, on pouvait apprendre deux trois trucs interressants...
+les missions secondaire (ou générique) vont du rébarbatif (escorte, surveillance de quartier) au très pratiques pour augmenter son influence (pillard du cartel en approche, assassinat, chef de cartel vulnérable (même si c'est dans le plus gros vaisseau du jeu régulièrement) mais les récompenses pécunières ne sont pas à la hauteur (au mieux 60.000). pour faire des sous, il faut capturer et vendre les vaisseaux capturés. par chance le système de capture est assez aisé, et de bons reflexes apparaissent vite. Mais le point noir de la capture, qui gâche le plaisir même parfois, c'est elle : Yish Tarren, ses boites de dialogues bloquent presuqe tout tant qu'elle n'a pas finit de parler, et c'est extraordinairement gonflant, et même mortel dans certains cas ! fort heureusement, des mods existent pour qu'elle se taise, et vous ne tiendrais pas 100 heures de vol sans l'installer.
+
+
+maintenant, si on devait comparer ce jeux au titre précédent :
+autant citer mes griefs simplement :
+--> 1 seul vaisseaux pilotable ! dans l'équivalent des anciens X, ça serait un M6+ (un gros Sciron OTAS en faite) dopé aux hormones car pouvant detruire sans sourciller un vaisseau de ligne dès qu'on a trouvé l'angle mort des tourelles...Mais finit les promenades en M2 pour "explorer" en force les secteurs inconnus...
+--> 5 armes seulement disponible, dont une inutile au possible et un laser minier....besoin de comparer à X3 AP?
+-->impossible de construire des chasseurs ! et pourtant, c'est la base de l'escorte commercial pour no gros vaisseaux commerciaux !
+--> où sont les missions à 2 ou 3 millions qui faisaient prendre des risques inconsidérés ? :(
+
+
+-------> Autrement dit, un jeu en Béta pour le moment, qui ne mérite pas ses 50€ pour le moment, à ceux qui veulent essayer l'univers de X, aller voir X3 Terran confict et X3 Albion prelude, qui eux sont clairement achevé et bon (et même addicitif) ! Ceux qui veulent vraiment l'essayer, attendez une méga solde.
+
+
+Note pour le steam workshop : Les mods Butter et NESA aident à grandement améliorer le jeu dans son immersion et dans sa cadence !
+si vous prenez ces mods, le jeu change du tout au tout et devient nettement plus amusant. 
+Ma recommandation est faite pour le jeu en Vanilla

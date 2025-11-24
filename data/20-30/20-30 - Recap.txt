@@ -1,0 +1,7 @@
+72 reviews
+dont 35 positives , 37 négatives 
+et aucune controverse.
+
+
+
+NB : A partir de ce palier, les notes Metacritic n'étaient pas toutes représentés donc notre corpus de données ici, se réduit. (par exemple, avec les conditions de notre expérience, c'est-à-dire, jeux PC uniquement sur Steam, il n'y a pas de jeu avec 28 de Metacritic.)

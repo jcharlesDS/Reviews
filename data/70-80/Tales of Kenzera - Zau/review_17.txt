@@ -1,0 +1,6 @@
+Note : 👍
+
+Simple and short Metroidvania with good movement, graphics, story and music.
+Movement provides a good sense of speed and flow.
+Combat needs more variety and mask balance needs tuning. Blue mask is much more useful than red.
+Played mostly on Steam Deck at 45 FPS with Steam Deck preset and XeSS Balanced.

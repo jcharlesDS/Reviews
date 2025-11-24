@@ -1,0 +1,3 @@
+Note : 👎
+
+Excellent jeux de stratégie fantastique indirecte mais malheureusement le bug qui change la difficulté selon le  nombre d'image par seconde rend le jeux infaisable à moins de baisser volontairement le nombre IPS.

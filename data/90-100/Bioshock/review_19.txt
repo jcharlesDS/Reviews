@@ -1,0 +1,5 @@
+Note : 👎
+
+Miserable compatibility, in desperate need of some patching. Remastered version does not help with any of the problems. You could try and put up with the issues, looking all over for fixes, but I have yet to find solutions for borked texture streaming and audio cutoff that work for me.
+
+2K launcher can fuck right off.

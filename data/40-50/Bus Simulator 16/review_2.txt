@@ -1,0 +1,5 @@
+Note : 👍
+
+Bonjour,
+
+Bus Simulator est un bon jeu de bus, il y a plein de choses à faire, il y a une très grande interaction avec les passager, quand il y a des handicapés, on doit leur déplier la rampe, on doit demander de se pousser aux passagers qui bloque le passage, on doit calmez les passagers en colère, réparer les portes quand elles sont coïncées ... Les graphismes sont plutôt jolies, il y a une très grosse partie gestion qui est fort agréable . MAIS LE GROS POINT NEGATIF, c'est la physique, car la physique n'est pas très bien faite, elle n'est pas très réaliste, mais j'espère que les dévellopeurs vont corrigés ça ou qu'il y aura un mod pour corrigés ça mais sinon, le volant se configure très facilement, marche très bien, je vous conseille de l'acheter .

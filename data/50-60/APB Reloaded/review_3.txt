@@ -1,0 +1,3 @@
+Note : 👎
+
+Added a kernel-level anti-cheat which makes it unplayable on Linux. And besides, kernel-level anti-cheats aren't any more effective than non-kernel-level anti-cheats, but are a major security risk for users. Absolutely clueless developers...

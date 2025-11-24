@@ -1,0 +1,3 @@
+Note : 👎
+
+Crash quasiment à chaque chargement le jeu est injouable en l'état. Ca devrait être patché rapidement mais pour l'instant je déconseille.

@@ -1,0 +1,5 @@
+Note : 👎
+
+I want to love this game, but the state it's in at release it's essentially unplayable. Map generation is broken with missing pieces and tons of areas where you can see through walls. The lighting system seems completely broken, to the point where I can stand right in front of a guy with a lamp shining directly onto me without him having any clue. It worked fine in the tutorial, but in an actual map it seems like the stealth system can't read light levels at all, and as a result it will give you the benefits of complete darkness no matter where you are.
+
+I hope the devs fix the game, and if they do I might come back, but as it stands I'll be seeking a refund.

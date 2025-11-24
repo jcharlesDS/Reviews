@@ -1,0 +1,16 @@
+Note : 👍
+
+Pour info, j'ai ce jeu depuis 2010, j'ai donc pu faire la transition GFWL -> Steam enclenchée il y a quelques semaines (en bêta). Mon ressenti sur la version pré-Steam : jeu absolument génial, très beau, une quantité énorme de bâtiments à détruire (tout ce qui n'est pas la surface de Mars en fait)... les seuls points négatifs venaient du multi, déserté très rapidement sur PC, et des lenteurs dûes à GFWL.
+Aujourd'hui, nous avons donc cette version passée sur Steamworks. Qu'en dire ?
+Ben c'est parfait.
+Comment, plus de détails ? Ben allons-y :
+- Premier point : le jeu propose au départ de se connecter sur GFWL pour récupérer ses vieilles sauvegardes ! Certains s'en foutront à fond, d'autres (comme moi) apprécieront le geste (même si ça reste inutile pour beaucoup).
+- Le moteur physique a pas bougé, et c'est pas plus mal : ce dernier était déjà efficace auparavant malgré parfois quelques ratés (on meurt pas en tombant de 30 mètres mais une plaque de 2m*2m d'un matériau suffisamment léger pour voler avec un coup de marteau nous one-shoit en nous écrasant...).
+- Les graphismes sont juste magnifiques malgré que le jeu ait 4 ans, de plus, Nordic a eu la bonne idée de passer de DirectX 10 à DirectX 11, entraînant des ajouts au niveau des graphismes (gestion des lumières par exemple). Pour les vieilles CG, le mode DX9 est toujours disponible d'ailleurs.
+- Niveau contenu, les DLCs sont ici inclus d'office dans le jeu (je me trompe peut-être, mais ils ne l'étaient pas dans la version disque de l'époque). Je ne les ai pas essayés, mais cela reste un plus non négligeable, surtout vu le petit prix.
+- Niveau online, des maps ont été ajoutées, le système est passé sous Steamworks (donc vraiment meilleur) et multi bien peuplé (je n'ai pas encore fait de multi, mais mes essais sur la popularité du online sont concluants).
+- Enfin, cela ne concerne pas tout le monde, mais le jeu reste compatible avec les mods. Cela peut permettre d'avoir le Reconstructor en solo par exemple.
+
+Bref, à ce jeu je dis oui, OUI ET RE-OUI !!! Une perle à posséder, bien meilleur que les précédents volets et même meilleur que sa suite ! Et un grand merci à Nordic Games sans qui ce jeu serait resté à l'abandon, pour le pire !
+
+Ah, juste une dernière chose : cette critique a été écrite peu après la fin du scénario, ce qui m'a pris 27h en faisant un max de quêtes annexes en même temps. Il y a aussi du contenu post-game d'ailleurs (mais pas forcément indiqué, faut jouer un peu après pour que ça vienne). Et au moment de cette critique (le 28 décembre 2014), le jeu est bradé à -85%, et vaut à peint 1€49. prenez-le. je suis sérieux. Même à 10€, prenez-le. Vous aurez investi dans une valeur sûre.

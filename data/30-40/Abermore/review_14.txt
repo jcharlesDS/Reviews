@@ -1,0 +1,5 @@
+Note : 👎
+
+I am enjoying the pieces of what Abermore could have been, but that takes patience, imagination, and a whole lot of forgiveness. This game is much too broken to be released to paying audiences like this. It starts with bad framerates and slows down over the course of a mission to an unplayable slideshow of 5fps. Level geometry is missing walls and ceilings. Clipping out of the level is commonplace. Lights dont work. AIs fail at pathfinding. I had the Y axis of my mouselook go wild and then eventually lock up. The UI is plagued with constant full screen flashes of broken polygons. I havent had a single session that wasnt deeply broken.
+
+But in among all that, and despite the stealth systems being rudimentary to the point of bad, there is something at the core of this game. I am enjoying the light touch weird worldbuilding in the quests and npcs, and in the moments between the game's brokenness I find myself liking what they were going for. Not what they actually produced, mind you, just what I can see in it.

@@ -1,0 +1,13 @@
+Note : 👍
+
+While playing Plants vs Zombies GOTY edition in the latest version of Windows ... if you are experiencing crashes / errors on Windows 11 while launching / clicking play for Plants vs Zombies GOTY (game of the year), you will need to access / open task manager (ctrl alt delete) ... click the Details (tab) ... right click on popcapgame1.exe and click end the process to close the game. 
+
+Then, go to your Windows Start menu search and type "regedit" without the quotes. Navigate to Computer\HKEY_CURRENT_USER\Software\SteamPopCap\PlantsVsZombies and configure ScreenMode (REG_DWORD) from a value of 1 to a value of 0. 
+
+1 means fullscreen  and 0 means window mode.
+
+Then launch the game and play in window mode. If you want to play in fullscreen, press alt enter on your keyboard while playing Plants vs Zombies to go to fullscreen mode. However, after you're done playing and before you exit / close out of the game, be sure to do alt enter to make the game go back from fullscreen mode to window mode again. If not, the next time you launch you'll have to repeat the regedit instructions above.
+
+This is a great game and I've played it many times over the years. I do wish that some of the plants didn't cost so much to use and that some of the store upgrades had lower prices as well. It limits one's play styles.
+
+I hope this review helps other players. Please release a Steam version of Plants vs Zombies 2 as well with everything unlocked. Thanks Popcap.

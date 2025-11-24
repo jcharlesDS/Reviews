@@ -1,0 +1,3 @@
+Note : 👍
+
+Hello, please make it possible to sort the armors according to the armor pieces (boots, top, bottom, helmet, hand) and the type of armor (light, medium and heavy) and the armors of the same set be grouped together. Thank you very much

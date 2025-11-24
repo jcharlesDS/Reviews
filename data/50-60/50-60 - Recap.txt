@@ -1,0 +1,6 @@
+On a :
+
+161 reviews
+dont 91 positives , 70 négatives et aucune controverse.
+
+NB: De ce palier jusqu'au 0-10%, on est obligé d'enlever le fait de prendre minimum 10 reviews par manque de data scrapé.

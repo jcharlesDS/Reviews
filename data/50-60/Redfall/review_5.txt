@@ -1,0 +1,30 @@
+Note : 👍
+
+Played solo as Jacob – after the final patch.
+
+Far from the most terrible game ever made, Redfall is a bog-standard, by-the-numbers looter-shooter. Too easy and not scary. PC performance is fixed though. 
+5/10
+Total size on my ssd: 71.8 GB
+
++ Performance is fixed. Redfall ran smooth and stutter-free for me (5950X +4070 Ti Super)
++ Sandbox design is great.
++ The stylized graphics are generally good. Can be degraded by excessive default brightness levels, so check that out when starting. There is a flashlight tool available throughout the game, so don’t hesitate to make things dark and use the flashlight! When you do…
++ ...The atmosphere starts to click. Darkness everywhere at night, random streetlights casting pools of light in the darkness. Even during the daytime, exploring a shed or basement will need the flashlight.
+
++/- enemy design is decent, but there isn’t enough variety. Barely half a dozen different vampires. The rest are human cultists or hostile mercenaries.
++/- Have seen freeze-frame cutscenes before in DLC (Just Cause 3), but they’re odd in a full game. Definitely feels like a cost-cutting measure.
++/- Story is actually decent, but feels rushed and patchy, being told through freeze-frame cutscenes w/ voiceover, collectibles, and impersonal holographs. 
++/- gameplay tries to emulate DOOM. It feels quick and slick, but movement feels a like you’re on ice-skates. Mantling / climbing works fine, but feels cumbersome in the middle of a firefight.
++/- ambient music is generally good, though there are a few odd mood choices
+
+- First area, Redfall Commons, has a single major boss, while the second area, Burial Point, has three. Like there were plans for a larger game, but the vision for the game had to be scaled down so they jammed everything into Burial Point.
+- character back-story is never explained. Jacob, for instance, has some history with one of the villains, but it’s only referenced in passing. There aren’t any collectibles which expand on it, either.
+- can’t return to the first area, Redfall Commons, after leaving it
+- level design is still too linear. Those times where Redfall took me out of the sandbox and into a dedicated level, the level is still a very direct path from beginning to end. 
+- Too easy. You take a lot of damage, so face-tanking is out, but you also deal tons of damage. If you keep your weapons on-level and are smart with the use of cover, combat will never make you sweat.
+- Not scary. Redfall’s biggest mis-step. Vampires scream, swagger and laugh, but I never felt in danger.
+- Not Gothic enough. There’s a presumption that vampires = swirling cloaks, evil laughter and imposing castles with intricate spires / gargoyles and (inside) luxurious red velvet everywhere. The swirling cloaks and evil laughter are in Redfall aplenty, but the modern-day setting just didn’t work for me.
+- Vram-hungry. Played at 3440x1440, max settings, and vram usage was regularly over 12GB (dedicated; allocated was even higher). I suspect some of the people complaining about stutter simply didn’t have enough vram.
+
+
+Redfall is worth picking up if you can get it cheap. I had some fun clearing the map of collectibles, I didn’t hate the gameplay and it has some decent atmosphere. 100%-ing the game will require co-op; good luck finding people to play with, as the online is deserted.

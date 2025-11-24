@@ -1,0 +1,35 @@
+Note : 👍
+
+Un véritable bon jeu, un incontournable en ce qui concerne les space sim, comme le reste de la série des X. Plus facile à prendre en main que ses prédécesseurs et tout aussi profond, la majorité des défauts du jeu ont été corrigés ou peuvent l'être via les mods. 
+
+Je conseil d'ailleurs aux nouveaux joueurs de faire la campagne une fois en vanilla, car elle sert de gros tuto, puis de lancer une partie libre en moddant le jeu. Une petite disaines de mods sont nécessaire selon moi pour rendre le jeu exellent :
+
+- Conquest and war (trouvable sur Nexus mod), qui ajoute des guerres dynamiques entre factions, permet de revendiquer des secteurs, et plein d'autres choses.
+
+- YAT, qui permet d'automatiser les vaisseaux de commerce et de minage.
+
+- Autocrew, pour ne plus perdre de temps à devoir chercher du personnel (sachant qu’ils n’évoluent pas et donc qu’en vanilla, soit on prend les premiers venu au dépend de leur qualité, soit on passe des heures à chercher la perle rare, bref du gameplay chiant).
+
+- Capital ship bridge (ajoute un véritable pont pour les vaisseaux capitaux).
+
+- Hull skunk x3, qui augmente la vie du vaisseau (autrement vraiment trop light, si on veut faire autre chose que regarder lors des combats de flottes de capitaux) et fixe la réparation des ingénieurs.
+
+- SilenceYouAll, car les dialogues audio répétés des pnj sont rapidement très très chiant et rébarbatifs, et ça garde ceux importants.
+
+- TAF, pour pouvoir embaucher des agents commerciaux mettant à jour en temps réel les offres des stations. En vanilla il faut se rendre à l’intérieur des stations et réussir un mini jeu de discussion pour pouvoir en avoir un… bref, c’est chiant, surtout vu la centaine de stations en jeu, et pas forcément logique.
+
+- Show skill, pour pouvoir voir les compétences des pnj lorsqu’on leur demande (en vanilla l’on peut demander, mais tout est grisé…)
+
+- Inventory crafts items marked : les objets servant au craft seront marqué d’une petite étoile dans l’inventaire
+
+- Station annoucement : ajoute des annonces dans les stations, ce qui les rend plus immersives
+
+- Omicron Lyrae main menu + lightweight main menu (pour une page d’accueil vraiment beaucoup plus classe, tant visuellement que musicalement).
+
+- ButterRanges : pouvoir scanner les stations de plus loin et ne pas être obligé de coller le nez aux stations pour choper des missions ou des offres commerciales.
+
+- Fly-by infoscan : passer en mode scan de station permet de récolter tous les point d’info d’une station d’un coup, gain de temps et retire cette partie ultra chiante du gameplay, sans retirer la nécessité d’user de drones de scan pour certaines stations bloqués à 98-99%)
+
+- Fly-by looting : autoloot des items proches du vaisseaux
+
+Avec ça, vous aura un jeu vraiment excellent et agréable qui vous tiendra en halène des heures durant.

@@ -1,0 +1,19 @@
+Note : 👎
+
+Unfortunately, I have to challenge the idea that this game can be played on the deck. I have all the settings at low and the resolution set to 720p and the first boss just doesn't play at high enough frames to be reasonably beaten on the Deck. Notably, it took me more than the return window to get to this point. If you're on a low-end machine or mobile device, this discovery can be pretty disappointing. There is definitely an optimization issue at play here because this game tears through the Steam Deck battery, whereas I'm able to play games like God Of War (2018) for much longer at more stable frame rates.
+
+Beyond the performance issues though, the game design is just pretty boring. Before the first boss, there's a level where you have to go into a mine and get two keys. You get the first one and then... dead end. You need to climb all the way back to the mid point to go get the other key. And the game barely does anything to justify sending you back the way you came. So you just need to climb up the other way 🤷‍♂️ Other side of the mine does the same thing. And most of the game isn't interesting. The combat is fine, almost good. But the game is really killed by the tiny flat arenas where they set you to fight these groups of enemies. The elevator in the first half of the first act is an absolutely insane random difficulty spike... A but then the combat goes back to being brain-dead simple immediately after until the boss.
+
+After credits roll update:
+
+As for performance, I moved over to my laptop. Yes, it's a laptop. But it's a 4090 laptop. Probably higher performance than the average desktop. And I still had tons of frame drops during major action sequences. There are some major performance pitfalls during the most critical parts of this game.
+
+That boring key-finding and back tracking thing happens in all three acts. It's the same stuff over and over again. And in this game there's dozens of rooms that are exactly the same as other rooms. In the last area I noticed at least 4 rooms that were just two sinking platforms into lava with a ceiling and floor spike in the middle that you have to dash through. We don't need that room more than once. The spaces in this game feel extremely and unnecessarily padded out to extend the length.
+
+Yeah man, this game just wasn't easily redeemed for me. There was some cool art and designs but other than that... holy shit, they use some obnoxious anti-patterns to pad out the ending. Enemies that you can't stagger that can knock you off an arena forcing you to start a multi phase fight all over again. And honestly, just the most absolutely tedious final boss I've ever experienced. Bosses can so easily be ruined by their arenas. To put the final boss on an arena with two sided death falls is basically outwardly admitting, "we couldn't find way to make it interesting or difficult so we did this." I love difficulty, but if you've built a boss fight and when I finished I'm not celebrating, I'm just happy it's over... that's a strong hint that you've made a bad boss fight. And that was every fight here. And the second and third boss took me one try, and I was still entirely over it all.
+
+And beyond that... why the story inside the story? The outer story is entirely pointless. Those two sequences could just literally not exist and the game wouldn't be any different.
+
+Also, why can't the camera just reliably follow the player? Why does the camera have like a max speed and if the player moves faster than that speed, the camera lags behind? It causes deaths all the time in the "chase" sequences. Same thing with a ton of enemy encounters. Either the enemy is off screen or I'm off screen. It's infuriating.
+
+I'm not averse to trying the next game from this studio but this definitely wasn't it.

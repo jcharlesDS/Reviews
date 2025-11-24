@@ -1,0 +1,20 @@
+Note : 👍
+
+Attention : Cet avis contient des Spoil 100% OGM
+
+Pour faire très simple, j'ai vraiment adoré. Mais...
+Plutôt déçu de ne pas avoir eu de version collector sur PC.
+Le jeu est pétri de bonnes intentions et le cachet Flashback est là. Donc pour ça, merci Microids et l'équipe d'avoir osé proposer cette copie. (imparfaite.)
+Il aurait clairement fallu au moins 4 mois de dev supplémentaire pour que le titre soit 100% fini (polish) et jouable.
+En l'état il sera difficile d’apprécier le soft sans être un fan de l'univers. Certains amoureux de SF pourraient aussi y trouver leur compte à condition de ne pas être trop exigeant.
+Le gameplay ne repose que sur deux ficelles qui manquent malheureusement de précision.
+Que ce soit les gunfights ou la semi-plateforme, rien ne semble vraiment fini. (Bug de mapping de touche et de lock fréquent). La 3d en profondeur sera problématique pour les joueurs qui ont du mal avec la spatialisation. Le jeu ne vous cramera aucune cellule grise, il n'y a pas d’énigme. (hors digicode.)
+Les musiques et les environnements sont agréables à traverser.  (Mention spéciale pour la forêt et le village des mutants.) La fin du jeu est littéralement Rush et impacte lourdement l’appréciation finale. C'est dommage... (Même pas une petite cinématique sympa après le vol du vaisseau pour rejoindre le vaisseau morph, c'est quand même moyen et retire tout spectacle.)... On construit un mecka qu'on utilise pas et qui se retrouve détruit comme par miracle... à croire que presque 2h de jeu ont été retirés par manque de budget.
+Dommage de n'avoir aucune animation des bouches des personnages sur les dialogues alors qu'elles sont présentes sur le trailer. J’insiste tout de même sur la qualité des doublages FR qui est à noter pour une aussi modeste production.
+La technique est à revoir. Le pathfinding des PNJ est hasardeux, les scripts ne se lancent pas toujours, les personnages répètent en boucle des phrases, des murs invisibles font leur apparition, les textures absolument immondes sur certaines surfaces, les rendu JPEG en Low res des affichages, les décors qui ne chargent tout simplement pas (donc horrible) mais qui deviennent superbe une fois le problème réglé... J'ai noté tellement de soucis, et pourtant j'ai terminé le jeu avec un petit sourire. J'ai aussi noté un gros effort sur le lore. Le retour de Connors m'a bien fait tilter... (lisez les holo cube!) Certains sont d'ailleurs bugé... 
+Une boucle bouclée et la pirouette avec le jeu Fade to black est plutôt bien trouvée. Contrairement à beaucoup de monde, je n'ai eu aucun problème de fps. (En désactivant la résolution dynamique).
+
+
+Flashback premier du nom m’aura pris moins de deux heures à finir. Fade to black idem.
+Le remake du premier édité par Ubisoft un peu moins de 6 heures en difficulté max... Celui-ci en aura tenu sept en prenant mon temps. (Et avec au moins 1h dans le vent à force de relancer le jeu à cause des ''nombreux'' bug) Je me demande s'il y avait une équipe QA derrière. Le problème principal vient du moteur Unity qui n'est absolument pas adapté. (Complexe à utilisé et très mal foutu dans son code.) Je comprends le besoin de faire des économies... Mais quand même. Dans ce cas il aurait mieux valu rester sur de la 2D pure.
+Avec plus de budget, plus de liberté créative et un gamedesign moins tourné vers l'action et plus sur la réflexion, ce titre aurait tiré son épingle.

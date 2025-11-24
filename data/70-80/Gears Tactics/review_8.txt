@@ -1,0 +1,3 @@
+Note : 👎
+
+The automatic save checkpoint in a mission is broken and doesn't save progress. I could put up with the poor UI and some of the game's oddities. But when a game does a "softlock" just because autosave decided not to overwrite progress, I am extremely reluctant to keep playing this game.

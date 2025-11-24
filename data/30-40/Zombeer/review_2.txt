@@ -1,0 +1,26 @@
+Note : 👎
+
+Da maniere objective, 
+le jeu est marrant, le coté déjanté lui donne un style bien a lui.
+Le coté visuel est réussi et le style graphique choisi vielli assez bien.
+Clairement le jeu a une personalitée bien à lui et les personnes ayant crées ce jeu ont fait du bon boulot.
+L'inclusion des commentaires des dev en ramassant un objet spécifique à cette action est une excellente idée
+
+en moins, 
+-Le travail sur la physique aurait méritée un peu plus de soins, hormis la premiere arme, les autres donnent la sensation, d'en manquer justement (bruitage + physique).
+-L'arme principale n'affichent aucun projectile, courir et tirer avec le fusil à pompe affichera un projectile qui part à l'ouest, et l'utilisation des "grenades" est assez ridicule vu le résultat tres réduit malgré l'explosion affichée).
+-le concept de boire une biere pour rester humain est original mais parait revenir trop rapidement et peu casser le rythme.
+-un combo en millieu de jeu demandera de presser la touche "i", ce qui ne marchera pas malgré des tentatives répétées, risque de vous prendre du temps, et finir par causer de l'énervement car un echec sur ce QTE = mort  (les points de sauvegardes sont définis, si c'est à 3-4 minutes avant, vous allez refaire le passage en boucle). En fait il faudra presser la touche "d" ; Utiliser un manette aura aussi son moment wtf sur le meme passage avec un "presser le bouton du joystick o" (quand il faut se refaire en boucle un passage de 4 minutes juste parceque le jeu à un bug de ce type.
+
+
+Bref, prenez le en solde.
+à 4.99€ en temps normal, ca fait peu pour rétribuer les personnes ayant travaillées sur ce jeu. Mais ca fait cher pour le joueur. C'est dommage il lui manque pas grand chose pour passer en jeu recomendé en ce qui me concerne.
+
+
+
+
+[spoiler]
+
+
+La fin du jeu est totalement en mode : suite au prochain épisode... Du coup il pourrait vous laisser sur votre soif (malgré les hectolitres que votre personnage aura du avaler durant votre périple). 
+Et a défaut, il est a attendre qu'il n'y en aura aucune

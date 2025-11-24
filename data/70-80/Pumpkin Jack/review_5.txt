@@ -1,0 +1,4 @@
+Note : 👍
+
+This game is a simple 3D platformer. Levels are pretty linear and secrets are not hard to find. It is mostly double jumps and 1-3 hit combos. Checkpoints crates and enemies all give you extra life, so its not super hard. There are simple puzzles and run and jump sections and mine cart jump segments as well as boss fights. There is a total death count after each death. Kind of fun, but not as polished as most other 3D platformers.
+The game still looks good, but requires a pretty decent video card as I had to turn everything to low and could barely get 1080 60 without straining my GPUs cooling. The game itself doesn't look like it should be taxing on the video card. Could be optimizations are needed.

@@ -1,0 +1,23 @@
+Note : 👎
+
+Edge of Eternity is an open-exploration, turn-based RPG that features two siblings who are seeking a cure to a widespread disease named the Corruption. The combat system features an ATB mechanic on a hex grid arena, and an ability/stat system based on crystals equipped to the character's weapon. Let me give you my breakdown of the game, and what led me to not recommending this game:
+
+Pros:
+*Well-polished world that has a good amount to explore, farming mats and enemies at your pace, encouragement through quests to look for loot, and movement-based puzzles incentivizing players with additional loot.
+*Excellent facial tracking in cutscenes with main characters
+*Custom difficulty adjustments to tailor your experience in the game as you play, such as splitting battle difficulty with other sources of immersion (e.g. whether you can teleport or not, how often you can save)
+*Good customization with stats and skills in weapon-based skill system
+*Generally impressive game construction from a small studio
+*Opportunities for additional backstory/lore from MCs when resting at inns as story progresses
+*In-menu bug report for devs including an auto-screenshot feature to help with supporting devs
+
+Cons:
+*Overall issues with character writing, sense of MCs connectedness to the plot and their world. In other words, MCs feel more "thrown into" the story and have a mission more than they seem to fit into the world they exist in. Further, MCs naturally have a sibling bickering-type relationship which appears more put on than actually organic/realistic
+*Audio issues up the wazoo. Had to personally disable sound effects as I had an audio glitch that persisted during a combat and never went away, even after restarting the game. Other issues include audio files being clipped short and audio not playing during certain cutscenes when it likely should, or makes sense to
+*Difficulty with camera manipulation during combat making some targeting impossible due to odd choices in camera locking
+*Unintuitive presentation and use of certain gameplay mechanics. Tutorials for certain aspects of the game didn't feel as involved as they should, and the crafting system could use work. Having *4 separate crafting benches* (weapons/armor/consumables/crafting catalysts) seems a bit disjointed and frustrating to me, especially when the benches themselves are in different areas/across map areas
+
+Nit-Picky:
+*Gameplay loop feels overall more grindy than engaged and refreshing. The weather system in the game, which changes weaknesses/enemy spawns and can be controlled in major cities, seems overall unnecessary to mess with (though I will admit that might be more useful later on in the game, since I had only played 5 hours)
+
+Overall, I would not recommend this game if you're looking for a streamlined RPG experience that has an engaging story. I believe the game promises more than it can keep up with and it shows this quite early on. I had really tried to give it a chance in the face of some of these issues, but by the time I made it to the big city as part of the main story, I felt like I couldn't continue from there due to the issues piling up. This is, however, a good game if you're okay contending with audio glitches and a pretty unengaging story (so far for me).

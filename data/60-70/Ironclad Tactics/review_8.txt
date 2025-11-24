@@ -1,0 +1,3 @@
+Note : 👎
+
+Un jeu de stratégie type tower defense, certes sympathique au premier abord, mais où la difficulté est très artificielle puisqu'elle provient d'une désagréable sensation que l'IA adverse triche en permanence : elle joue systématiquement les bonnes cartes au bon moment. J'aimerais juste faire "tapis" pour voir sa main, afin de savoir si je suis pris pour un pigeon.

@@ -1,0 +1,3 @@
+Note : 👎
+
+POS game doesn't run correctly on AyaNeo(4500U win10) fails to launch on Deck

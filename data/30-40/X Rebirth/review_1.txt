@@ -1,0 +1,52 @@
+Note : 👎
+
+[i]*Version du jeu lors de l'évaluation : 2.51 - Version actuelle du jeu : 3.50* (Si certains éléments critiqués ont changés entre-temps, je l'indique.)[/i]
+
+Sérieusement ? On se demande si les gars qui ont bossé sur ce jeu sont les mêmes des précédents X. 
+
+J'ai joué aux précédents X depuis X2: The threat jusqu'à X: Terran Conflict. Rien que pour X:TC, j'ai un empire de 358 vaisseaux, 4.949.299.528 crédits et 222 stations et ~330h de jeu (L'équivalent en jeu de 700h pour ma partie principale grace au SETA x10 qui permet d'accélerer la vitesse du jeu ... x10). La gestions des empires dans X, je connais. Ici, c'est pas un jeu de gestion d'empire. On galère tout le temps pour donner des ordres, gérer nos vaisseaux (si on peut parler de gestion). 
+
+Alors qu'on ne me parle pas de la difficulté. [b]Ici, c'est pas compliqué comme jeu, loin de là, mais il n'offre aucun outil nécessaire aux ambitions qu'il poursuit.[/b] Aucun tableau lisible de votre empire, de vos stats. Aucun moyen de donner des ordres facilement à vos escadres, rien n'est ici fait pour que vous puissiez faire de la gestion d'empire. Vous devez constament vous déplacer en personne dans les zones pour être sûr, soit que tout se passe bien, soit pour bêtement donner des ordres précis dans certaines zones. On est embourbé dans une interface complètement anti-ergonomique. Le jeu lui même est contre toute forme d'ergonomie (quoique les patchs passant, ça s'améliore un peu).
+
+Alors autant être honnête, je n'ai ni fini le jeu, ni arrivé à la moitié de la carte galactique. J'ai été découragé avant de découvrir l'entièreté du contenu. Peut-être serez-vous plus fort (ou plus fou) que moi pour braver les déconvenues, les idioties de gameplay et le fouilli de l'interface. C'est un jeu qui peut avoir un gros potentiel, mais ce que j'en ai vu ne m'a donné ni envie de continuer à jouer, ni envie de vouloir découvrir si vraiment il se cache quelque chose sous la couche de ... enfin bref, sous ce truc quoi. 
+
+[i]Je ne donne ici que mon avis, je ne me veux pas testeur de jeu, et ne vous attendez pas à avoir une note à la fin. Lisez, faites vous un avis rapide, moi j'ai le mien qui changera peut-être si j'y rejoue dans le futur avec un paquet de mise à jour.[/i] 
+
+[h1]PROs[/h1]
+
++ Combats sympa
+
++ Les abordages de vaisseau. On détruit les moteurs, les tourelles, les boucliers, c'est cool :)
+
+[h1]CONs[/h1]
+
+- Tout le reste. TOUT a été rendu pénible, long, chiant. Réparer un vaisseau  ? Ah pas de chance, la (seule au début) station où vous pouvez le faire manque de matériaux, pas de bol. Réparer votre propre vaisseau  ? Pas de chance, même en ayant engagé un ingénieur à bord, et lui ayant fournis 150 drones de réparation, refuse de réparer votre vaisseau. Vous devez atterir à une station et payer un autre ingénieur pour réparer votre vaisseau ... la bonne blague. 
+
+- Les croiseurs qui se passent à travers dans les combats ... incapable de gérer les collision ? Bah, on enlève les collision en combat pour les vaisseaux de l'IA ... 
+
+- Ramassez des objets dans l'espace dans les autres jeux X : Ordre > Ramassez les objets dans la zone (Tout ceci via les ordre par la carte sans être dans la zone). Ramassez les objets dans X Rebirth : Passez en mode scan de containeur, marquer tout les containeurs, s'assurer que notre transporteur ait des drones de transport de containeur, rester dans la zone avec le scaner actif sinon le transporteur ne fera rien, attendre qu'il prenne tout les containers, vous pouvez partir...
+
+- Impossible de gérér un empire correctement. Pour faire des achats et des ventes de masse, il faut se rendre nous même aux endroits des stations pour trouver les offres de marchandise pour pouvoir les enregistrer (TEMPORAIREMENT) dans la base de donnée. (Sans parler du fait qu'il faut être à 35m de la station pour la scanner, 5-6km, ça semblait trop loin pour un jeu spacial). [i] [Edit v 3.50: Les offres peuvent être enregistrées en engageant un intermédiaire commercial sur les stations qui nous fourniront les prix de la station sur laquelle il se trouve. Il faudra cependant atterir sur chaque stations pour essayer de démarrer un dialogue aléatoire afin de pouvoir engager un PNJ ...] [/i]
+
+- On ne peut donner QUE 3 ORDRES à nos vaisseaux. Aller quoi, 3 ordres ... Donc, on attend le cul sur notre chaise que nos transporteurs aient fini leurs 3 pauvres ordres avant de relancer 3 autres ordres pour le commerce... (Et on ne peut pas faire de boucle avec les ordres)[i] [Edit v 3.50: 5 ordres avec un logiciel à 18millions et 7ordres avec un logiciel à 78millions. Je regrette toujours de ne pas pouvoir établir de route commerciale pour approvisionner automatiquement mes stations][/i]
+
+- Il faut TOUT LE TEMPS ajouter les vaisseaux à notre escadre pour leur donner un ordre. On ne peut jamais donner un ordre à nos propres vaisseaux s'ils ne sont pas dans notre escadre ... quelle idée de design de merde. [i] [Edit v3.50: Il est actuellement possible de donner des ordres d'achat/vente pour des vaisseaux hors de l'escouade] [/i]
+
+- La carte galactique est une crasse. Illisible. On ne sais pas non plus l'utiliser pour donner des ordre à nos vaisseaux du type : Va là, attend là, défend là, patrouille là, etc ... la carte sert à RIEN, c'est dingue, mais à rien du tout. Ok, on voit où on se trouve, mais elle est tellement illisible que ça sert à rien. Le cartes des précédents opus étaient simple. On avait des icones pour les différents vaisseaux et stations, une grille pour situer les coordonnées, c'était facile. Là, on a rien, les vaisseau sont mal représentés, en fait, il n'y a pas d'icône, juste une représentation des objets. 
+
+- 2 à 3 stations par secteur ... Yeah. Ok, elles sont énormes, mais quand même. Avec 3 stations par secteurs ça fait vachement vide quoi. 
+
+- Aucun réel commerce. Je veux dire, j'ai dû construire une station et j'ai dit à mon architecte d'acheter lui même les ressources. J'ai donné 20millions de crédits. il a été incapable de le faire. C'était bien plus simple avant, on demandait à un transporteur de construire une station à un endroit et il le faisait. Là, on se fait réellement chier à aller chercher nous même la moindre vis et le moindre écrou pour construire notre station. Vous vous souvenez quand j'ai dit qu'on ne pouvait donner que 3 ordres à nos transporteur ? ... Vous allez rire. 
+
+- Les personnages sont moches. Tout crispé, avec un balai dans le ... Bref, on dirait que la galaxie entière est atteinte d'une maladie qui rend leur membre tout droit. D'ailleurs ils ont tous la même tête... Enfin, tous ... il y a quand même 3 types de visages différents, c'est pas rien ...
+
+- Les voyages entre les zones. Fini les portails, maintenant, on se tape 15min d'autoroute entre les zones pour aller où on veut -_-" Putain quelle idée de merde sérieux. 
+
+- Quand on donne certains ordre aux vaisseaux, il faut rester dans la zone pour que les ordres soient exécutés correctement ... merci la gestion d'empire... 
+
+- On ne peut piloter qu'un seul et unique vaisseau (en plus il est moche je trouve). Les autres croiseurs, chasseurs, destroyers, etc ... on ne peut leur donner que 5 ou 6 ordres différents, et jamais les piloter ... 
+
+
+Franchement, je pourrais encore pondre toute un liste de points négatifs.
+
+Mais là, c'est bon, vous devez avoir compris : Je ne le recommande pas. C'est une horreur de gestion ce jeu. Mais je continue d'y jouer en me disant avec les mises à jour (on est à la 2.51 lors de l'écriture de cette critique là quand même ...), ça finira peut être par aller mieux. Parce que j'ai aimé les autres jeux X et que je hais celui-ci autant que j'ai aimé les autres. Mais bon, avec un peu d'espoir, parce qu'au fond, c'est un jeu qui a du potentiel et les développeurs n'ont pas laché l'affaire et continuent à amener des mises à jour.

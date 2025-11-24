@@ -1,0 +1,4 @@
+Note : 👎
+
+Un jeu qui demande beaucoup de performances pour des graphismes baclés. Il pourrait bien moins consommer par rapport au contenu du jeu.
+On peut d'ailleurs le comparer avec Euro Truck Simulator 2 qui a de bien meilleurs graphismes, pour moins de performances...

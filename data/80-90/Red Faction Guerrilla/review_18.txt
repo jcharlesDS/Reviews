@@ -1,0 +1,10 @@
+Note : 👎
+
+Ce jeu est une suite de bugs collés le suns aux autres, tout simplement.
+Si vous ne forcez pas votre système de son à jouer en Stereo, le volume des effets ambiant, comme le vent, seront horriblement fort, même si vous réglez les effets sonores à zéros depuis le jeu. Et une fois que c'est réglé sur Stereo, les effets sonores devient pourris et endormant, aucune ambiance.
+Aléatoirement, les graphismes pètent les plombs, et des structures entières de batiments disparaissent; ça arrive parfois même à votre personnage, qui perd sa tête ou ses bras de temps à autres.
+De plus, le smissions sont pleines de bugs, vous recevez les messages radios de débuts de missions après avoir l'avoir finie et ce parfois en devant faire des alt-tab répétitifs pour forcer le jeu à s emettre en pause et à se relancer, puisque  sans raisons logique, quand ça arrice la touche Echap ne fonctionne plus ...
+
+Tout ça si vous arrivez à lancer le jeu évidemment; car le nombre de "RFG à cessé de fonctionné" alors que vous n'êtes même pas encore arrivé au menu est tout bonnement abominable.
+
+Bref, à moins que vous n'ayez un vieux PC (car sur les vieux PC tout marche nickel) n'achetez pas ce jeu ...

@@ -1,0 +1,3 @@
+Note : 👎
+
+The game would be better if it supported nvidia gtx gpu, not just rtx.

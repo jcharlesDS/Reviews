@@ -1,0 +1,9 @@
+Note : 👎
+
+TLDR: has potential, but wait for bug-fixes/updates before purchasing.
+
+I can tell a lot of effort has gone into making this game, but it's not ready for commercial release yet. I've played the tutorial, and one and a half levels. I like the concept, had a couple fun moments, and am interested in some of the features that were introduced, but it needs bug fixes and polish. There is a game breaking bug where the camera gets locked on an NPC you just killed. I think it may have been intended to be some sort of combat lock/targeting system, but it's broken and after a couple minutes of trying to unlock it I had to exit the game (also it broke the inventory system, may have had something to do with my knife breaking at the same time though). Another issue is that the camera sways (not just the tutorial level) when moving even after setting the "head bob" setting to 0. The setting seems to only reduce head bobbing from walking/running, but doesn't reduce the camera sway from looking around and changing direction of movement. I get motion sick easily and don't want to get nauseated from simply looking around the environment. Furthermore, the procedural map making algorithm still produces disjoint looking building interiors (honestly, handcrafted maps might be better anyway. The algorithm was making mazes without any character), I believe this was with the day 1 hot fix patch already in place.
+
+This game is obviously a love letter to the dishonored series, and I would love to see "Abermore" succeed as it appears to bring new ideas to the table. I'm going to keep an eye on it and try it again after some time has passed.
+
+EDIT: the ominous foot step sound on the hound/knight guys was cool.

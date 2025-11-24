@@ -1,0 +1,20 @@
+Note : 👍
+
+Pour des amateurs de simulation sportive et cycliste.
+
+Ce jeux associe très bien les fonctions de manager et de simulation de course.
+Pour profiter pleinement cependant il faut vite oublier le niveau facile
+
+Point positifs:
+- durée de vie infinie
+- large choix de team et de coureurs
+- toutes les courses pro disponibles
+- variétés des modes de jeux (route, piste, carrière, course d'un jour...)
+- en mode carrière, une gestion très poussés des coureurs, courses et équipes
+
+Points négatifs:
+- mises à jours trop rares
+- manque de licences sur les coureurs les plus connus (Noms modifiés)
+- détails des paysages trop légers (des villes traversées absentes, des décors vides, des forêts à 3 arbres, un public répétitif...)
+- des bugs d'affichage en course ( coureurs qui traversent les voitures, public et barrières en travers de la voie, des arrivés 200m après la ligne...)
+- Défis et trophées qui ne se débloquent pas

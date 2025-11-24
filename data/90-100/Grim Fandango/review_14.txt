@@ -1,0 +1,3 @@
+Note : 👎
+
+This version does not work on Steamdeck. Fix your dependencies!
