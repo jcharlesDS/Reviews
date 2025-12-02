@@ -1,5 +1,5 @@
 # Reviews
-Projet d'analyse de la notation d'une liste de jeux-vidéo (76 jeux différents) et la différence entre les notes/reviews des joueurs (Avis Steam) et avis de la presse (Note Metacritic).
+Analyse de sentiment et confrontation de classifieurs de Machine Learning sur des critiques vidéoludiques de joueurs (via Steam) et de la presse (via Metacritic)
 
 Plus d'information sur ce projet, [ici](https://github.com/jcharlesDS/Reviews/blob/main/doc/doc.pdf)
 
